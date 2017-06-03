@@ -118,7 +118,7 @@ By default, the following styles are applied:
 ```TabGroup``` accepts the following style prop:
 
 ```js
-style={{ indicator: { color: '#FF5722' } }}
+style={{ indicator: { backgroundColor: '#FF5722' } }}
 ```
 
 
